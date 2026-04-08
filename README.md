@@ -69,7 +69,8 @@ The chatbot follows a structured pipeline:
 * Improved accuracy over traditional chatbots
 ![WhatsApp Image 2026-04-08 at 10 45 15 AM](https://github.com/user-attachments/assets/173287ae-dc12-4263-940e-fa1ae555d994)
 
----
+---<img width="1813" height="997" alt="Screenshot 2026-04-08 150124" src="https://github.com/user-attachments/assets/bf1088b2-d786-44ca-9712-097be2a614b1" />
+
 
 ##  Tech Stack
 
