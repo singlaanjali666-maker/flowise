@@ -2,9 +2,9 @@ Here’s a clean and professional **GitHub README.md** based on your RAG Chatbot
 
 ---
 
-# 🤖 RAG Chatbot (Retrieval-Augmented Generation)
+#  RAG Chatbot (Retrieval-Augmented Generation)
 
-## 📌 Overview
+##  Overview
 
 This project demonstrates a **RAG (Retrieval-Augmented Generation) Chatbot**, which combines document retrieval with a language model to provide accurate and context-aware responses.
 
@@ -12,7 +12,7 @@ The system processes user queries, retrieves relevant information from a knowled
 
 ---
 
-## ⚙️ Architecture Workflow
+##  Architecture Workflow
 
 The chatbot follows a structured pipeline:
 
@@ -50,7 +50,7 @@ The chatbot follows a structured pipeline:
 
 ---
 
-## 🧩 Key Components
+##  Key Components
 
 * **Retriever** – Fetches relevant documents
 * **Embedding Model** – Converts text into vectors
@@ -60,18 +60,18 @@ The chatbot follows a structured pipeline:
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 🔍 Context-aware responses using RAG
-* 📚 Efficient document retrieval system
-* 🧠 Memory-enabled conversations
-* ⚡ Scalable and modular pipeline
-* 🤖 Improved accuracy over traditional chatbots
+*  Context-aware responses using RAG
+*  Efficient document retrieval system
+*  Memory-enabled conversations
+*  Scalable and modular pipeline
+* Improved accuracy over traditional chatbots
 ![WhatsApp Image 2026-04-08 at 10 45 15 AM](https://github.com/user-attachments/assets/173287ae-dc12-4263-940e-fa1ae555d994)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * LangChain / LLM Framework
@@ -80,7 +80,7 @@ The chatbot follows a structured pipeline:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 RAG-Chatbot/
@@ -98,7 +98,7 @@ RAG-Chatbot/
 
 ---
 
-## ▶️ How It Works
+##  How It Works
 
 1. Load documents into the system
 2. Convert them into embeddings
@@ -119,7 +119,7 @@ RAG-Chatbot/
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 * Add UI (Streamlit / React)
 * Improve retrieval accuracy
@@ -128,7 +128,7 @@ RAG-Chatbot/
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Anjali Singla**
 
